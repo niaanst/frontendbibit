@@ -1,0 +1,283 @@
+body{
+    background-color : #121212;
+}
+
+h1{
+color: white;
+text-align : left;
+font-family: Proxima Nova;
+font-style: normal;
+font-weight: bold;
+font-size: 49px;
+line-height: 60px;
+
+}
+.logo {
+    position: absolute;
+    left: 44.79%;
+    right: 53.75%;
+    top: 16.42%;
+    bottom: 65.87%;
+}
+.judul {
+position:absolute;
+height: 180px;
+width: 450px;
+left: 233px;
+top: 242px;
+border-radius: nullpx;
+}
+
+.box{
+    position: absolute;
+	height: 48px;
+	width: 414px;
+    left: 233px;
+    top: 442px;
+
+}
+
+h2{
+    
+    color: grey;
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 24px;
+    }
+
+
+.textbox{ 
+   background: #2a2a2a;
+    border: 1px solid #080808;
+    box-sizing: border-box;
+    border-radius: 8px;
+    width: 354px;
+    height: 46px;
+    left: 233px;
+    top: 540px;
+}
+
+.textbox2{ 
+    color:#00BD88;
+    background: #2a2a2a;
+     border: 1px solid #00BD88;
+     box-sizing: border-box;
+     border-radius: 8px;
+     width: 354px;
+     height: 46px;
+     left: 233px;
+     top: 540px;
+     
+ }
+
+ .textbox2:-moz-input-placeholder{
+    color:#00BD88;
+ }
+
+.jarak {
+    height: 46px;
+width: 354px;
+left: 233px;
+top: 744px;
+border-radius: 10px;
+
+}
+ 
+.button {
+background: #008D88;
+border-radius: 10px;
+width: 354px;
+    height: 46px;
+    left: 233px;
+    top: 540px;
+}
+
+.gambar{
+    position: absolute;
+width: 592px;
+height: 563.84px;
+left: 674px;
+top: 251.05px;
+}
+
+
+.baris2{
+    position: absolute;
+    width: 354px;
+    height: 46px;
+    left: 10px;
+    top: 1px;
+border-radius: 12px;
+}
+
+
+.baris3{
+    position: absolute;
+    width: 354px;
+    height: 46px;
+    left: 20px;
+    top: 1px;
+border-radius: 12px;
+}
+
+    .kotak3 {
+height: 288px;
+width: 298px;
+left: 233px;
+top: 895px;
+border-radius: 12px;
+background : #1e1e1e;
+position: absolute;
+}
+
+.kotak4 {
+        width:300px;
+        height:288px;
+        background-color:#1e1e1e;
+        position:absolute;
+        right:190px;
+        left : 560px;
+        top:895px;
+        border-radius: 12px;
+}
+
+.kotak5 {
+    width:300px;
+    height:288px;
+    background-color:#1e1e1e;
+    position:absolute;
+    right:190px;
+    left :900px;
+    top:895px;
+    border-radius: 12px;
+}
+
+.kotak6{
+    width:300px;
+    height:288px;
+    background-color:#1e1e1e;
+    position:absolute;
+    right:190px;
+    left :233px;
+    top:1210px;
+    border-radius: 12px;
+}
+
+.kotak7{
+    width:300px;
+    height:288px;
+    background-color:#1e1e1e;
+    position:absolute;
+    right:190px;
+    left :560px;
+    top:1210px;
+    border-radius: 12px;
+}
+
+
+.kotak8{
+    width:300px;
+    height:288px;
+    background-color:#1e1e1e;
+    position:absolute;
+    right:190px;
+    left :900px;
+    top:1210px;
+    border-radius: 12px;
+}
+
+
+h3{
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;  
+    line-height: 80px;  
+    color: #FFFFFF;
+    top : 100px;
+    left: 12px;
+    bottom:1172px;
+    position: absolute;
+
+}
+
+.gambar2{
+    top : 30px;
+    left: 80px;
+    border-radius: 0px;
+    position: absolute;
+}
+
+a{
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #B8B8B8;
+    height: 66px;
+    width: 280px;
+    top: 185px;
+    border-radius: nullpx;
+    position: absolute;
+}
+
+.tengah{
+position: absolute;
+bottom: 241px;
+top: 1689px;
+}
+
+.persegipanjang{
+height: 321px;
+width: 1440px;
+left: 0px;
+top: 1489px;
+border-radius: 0px;
+background: #1E1E1E;
+}
+
+h4{
+height: 39px;
+width: 787px;
+left: 503px;
+top: 30px;
+text-align: center;
+border-radius: nullpx;
+font-family: Proxima Nova;
+font-style: normal;
+font-weight: bold;
+font-size: 32px;
+line-height: 39px;
+color: #FFFFFF;
+position: absolute;
+}
+
+.playstore{
+left: 503;
+top: 200px;
+border-radius: 0px;
+position: absolute;
+background: url(app-store-png-logo-33123.png);
+
+}
+.header{
+    position: absolute;
+    top: 2056px;
+    bottom : 163px;
+}
+
+.persegipanjang2{
+    height: 210px;
+    width: 1480px;
+    left: 0px;
+    top: 1689px;
+    border-radius: 0px;
+    background: #121212;
+    }
+    

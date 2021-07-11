@@ -1,0 +1,111 @@
+body {
+    font-family: 'Source Sans Pro';
+    background:white;
+    margin:0;
+    color:black;
+}
+
+img {
+        width: 250px;
+        height: 250px;
+        border-radius: 50%;
+     }
+     
+.foto{    
+        width: 400px;
+        height: 400px;
+        left: 300px;
+        top:30px;
+    border-radius: 0px;
+    position: absolute;
+    }
+
+
+.container{
+    background: pink;
+    width: 450px;
+    height: 321px;
+left: 0px;
+top: 1489px;
+border-radius: 0px;
+}
+
+.judulbesar{    
+    width: 400px;
+    height: 321px;
+    left: 700px;
+border-radius: 0px;
+position: absolute;
+}
+
+.about{
+    position: absolute;
+    left:20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.biodata{
+    top: 420px;
+    position: absolute;
+    left:20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.pengalaman{
+    top: 420px;
+    position: absolute;
+    left:860px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.skill{
+    top: 540px;
+    position: absolute;
+    left:20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.contact{
+        top: 900px;
+        position: absolute;
+        left:20px;
+        font-family: 'Times New Roman', Times, serif;
+}
+
+.pendidikan{
+    top: 1310px;
+    position: absolute;
+    left:860px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.organisasi{
+    top: 1085px;
+    position: absolute;
+    left:20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.bahasa{
+    top: 1235px;
+    position: absolute;
+    left:20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.pencapaian{
+    top: 1360px;
+    position: absolute;
+    left:20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.footer{
+    top: 1550px;
+    position:absolute;
+    background: pink;
+    width: 1600px;
+    height: 99px;
+left: 0px;
+border-radius: 0px;
+}
